@@ -1,0 +1,172 @@
+HUMAN (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+Awesome+ (B) played 5 0 4 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+HUMAN (W) played 2 0 3 1
+BBBBBBB
+.BBBBBB
+B......
+.W.....
+.......
+.WWWWWW
+WWWWWWW
+[AWAY 3 GAME_ON]
+Awesome+ (B) played 4 0 3 0
+BBBBBBB
+.BBBBBB
+.......
+BW.....
+.......
+.WWWWWW
+WWWWWWW
+[HOME 4 GAME_ON]
+HUMAN (W) played 3 1 4 0
+BBBBBBB
+.BBBBBB
+W......
+B......
+.......
+.WWWWWW
+WWWWWWW
+[AWAY 5 GAME_ON]
+Awesome+ (B) played 3 0 2 0
+BBBBBBB
+.BBBBBB
+W......
+.......
+B......
+.WWWWWW
+WWWWWWW
+[HOME 6 GAME_ON]
+HUMAN (W) played 1 6 2 6
+BBBBBBB
+.BBBBBB
+W......
+.......
+B.....W
+.WWWWW.
+WWWWWWW
+[AWAY 7 GAME_ON]
+Awesome+ (B) played 5 3 4 4
+BBBBBBB
+.BB.BBB
+W...B..
+.......
+B.....W
+.WWWWW.
+WWWWWWW
+[HOME 8 GAME_ON]
+HUMAN (W) played 1 3 2 3
+BBBBBBB
+.BB.BBB
+W...B..
+.......
+B..W..W
+.WW.WW.
+WWWWWWW
+[AWAY 9 GAME_ON]
+Awesome+ (B) played 4 4 3 3
+BBBBBBB
+.BB.BBB
+W......
+...B...
+B..W..W
+.WW.WW.
+WWWWWWW
+[HOME 10 GAME_ON]
+HUMAN (W) played 1 4 2 4
+BBBBBBB
+.BB.BBB
+W......
+...B...
+B..WW.W
+.WW..W.
+WWWWWWW
+[AWAY 11 GAME_ON]
+Awesome+ (B) played 5 1 4 1
+BBBBBBB
+..B.BBB
+WB.....
+...B...
+B..WW.W
+.WW..W.
+WWWWWWW
+[HOME 12 GAME_ON]
+HUMAN (W) played 1 1 2 1
+BBBBBBB
+..B.BBB
+WB.....
+...B...
+BW.WW.W
+..W..W.
+WWWWWWW
+[AWAY 13 GAME_ON]
+Awesome+ (B) played 4 1 3 0
+BBBBBBB
+..B.BBB
+W......
+B..B...
+BW.WW.W
+..W..W.
+WWWWWWW
+[HOME 14 GAME_ON]
+HUMAN (W) played 1 2 2 2
+BBBBBBB
+..B.BBB
+W......
+B..B...
+BWWWW.W
+.....W.
+WWWWWWW
+[AWAY 15 GAME_ON]
+Awesome+ (B) played 3 0 2 1
+BBBBBBB
+..B.BBB
+W......
+...B...
+BBWWW.W
+.....W.
+WWWWWWW
+[HOME 16 GAME_ON]
+HUMAN (W) played 0 1 1 1
+BBBBBBB
+..B.BBB
+W......
+...B...
+BBWWW.W
+.W...W.
+W.WWWWW
+[AWAY 17 GAME_ON]
+Awesome+ (B) played 2 1 1 0
+BBBBBBB
+..B.BBB
+W......
+...B...
+B.WWW.W
+BW...W.
+W.WWWWW
+[HOME 18 GAME_ON]
+HUMAN (W) played 1 1 2 1
+BBBBBBB
+..B.BBB
+W......
+...B...
+BWWWW.W
+B....W.
+W.WWWWW
+[AWAY 19 GAME_ON]
+HUMAN won. Awesome+ DQd

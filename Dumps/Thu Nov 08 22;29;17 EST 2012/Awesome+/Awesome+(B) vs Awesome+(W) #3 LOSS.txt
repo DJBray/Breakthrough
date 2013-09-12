@@ -1,0 +1,388 @@
+Awesome+ (W) played 1 0 2 0
+BBBBBBB
+BBBBBBB
+.......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[AWAY 1 GAME_ON]
+Awesome+ (B) played 5 0 4 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+W......
+.WWWWWW
+WWWWWWW
+[HOME 2 GAME_ON]
+Awesome+ (W) played 0 0 1 0
+BBBBBBB
+.BBBBBB
+B......
+.......
+W......
+WWWWWWW
+.WWWWWW
+[AWAY 3 GAME_ON]
+Awesome+ (B) played 4 0 3 0
+BBBBBBB
+.BBBBBB
+.......
+B......
+W......
+WWWWWWW
+.WWWWWW
+[HOME 4 GAME_ON]
+Awesome+ (W) played 1 0 2 1
+BBBBBBB
+.BBBBBB
+.......
+B......
+WW.....
+.WWWWWW
+.WWWWWW
+[AWAY 5 GAME_ON]
+Awesome+ (B) played 5 2 4 1
+BBBBBBB
+.B.BBBB
+.B.....
+B......
+WW.....
+.WWWWWW
+.WWWWWW
+[HOME 6 GAME_ON]
+Awesome+ (W) played 0 1 1 0
+BBBBBBB
+.B.BBBB
+.B.....
+B......
+WW.....
+WWWWWWW
+..WWWWW
+[AWAY 7 GAME_ON]
+Awesome+ (B) played 4 1 3 1
+BBBBBBB
+.B.BBBB
+.......
+BB.....
+WW.....
+WWWWWWW
+..WWWWW
+[HOME 8 GAME_ON]
+Awesome+ (W) played 1 1 2 2
+BBBBBBB
+.B.BBBB
+.......
+BB.....
+WWW....
+W.WWWWW
+..WWWWW
+[AWAY 9 GAME_ON]
+Awesome+ (B) played 3 0 2 1
+BBBBBBB
+.B.BBBB
+.......
+.B.....
+WBW....
+W.WWWWW
+..WWWWW
+[HOME 10 GAME_ON]
+Awesome+ (W) played 0 2 1 1
+BBBBBBB
+.B.BBBB
+.......
+.B.....
+WBW....
+WWWWWWW
+...WWWW
+[AWAY 11 GAME_ON]
+Awesome+ (B) played 5 1 4 0
+BBBBBBB
+...BBBB
+B......
+.B.....
+WBW....
+WWWWWWW
+...WWWW
+[HOME 12 GAME_ON]
+Awesome+ (W) played 1 0 2 1
+BBBBBBB
+...BBBB
+B......
+.B.....
+WWW....
+.WWWWWW
+...WWWW
+[AWAY 13 GAME_ON]
+Awesome+ (B) played 4 0 3 0
+BBBBBBB
+...BBBB
+.......
+BB.....
+WWW....
+.WWWWWW
+...WWWW
+[HOME 14 GAME_ON]
+Awesome+ (W) played 1 2 2 3
+BBBBBBB
+...BBBB
+.......
+BB.....
+WWWW...
+.W.WWWW
+...WWWW
+[AWAY 15 GAME_ON]
+Awesome+ (B) played 5 3 4 2
+BBBBBBB
+....BBB
+..B....
+BB.....
+WWWW...
+.W.WWWW
+...WWWW
+[HOME 16 GAME_ON]
+Awesome+ (W) played 0 3 1 2
+BBBBBBB
+....BBB
+..B....
+BB.....
+WWWW...
+.WWWWWW
+....WWW
+[AWAY 17 GAME_ON]
+Awesome+ (B) played 4 2 3 2
+BBBBBBB
+....BBB
+.......
+BBB....
+WWWW...
+.WWWWWW
+....WWW
+[HOME 18 GAME_ON]
+Awesome+ (W) played 1 3 2 4
+BBBBBBB
+....BBB
+.......
+BBB....
+WWWWW..
+.WW.WWW
+....WWW
+[AWAY 19 GAME_ON]
+Awesome+ (B) played 5 4 4 3
+BBBBBBB
+.....BB
+...B...
+BBB....
+WWWWW..
+.WW.WWW
+....WWW
+[HOME 20 GAME_ON]
+Awesome+ (W) played 0 4 1 3
+BBBBBBB
+.....BB
+...B...
+BBB....
+WWWWW..
+.WWWWWW
+.....WW
+[AWAY 21 GAME_ON]
+Awesome+ (B) played 3 0 2 1
+BBBBBBB
+.....BB
+...B...
+.BB....
+WBWWW..
+.WWWWWW
+.....WW
+[HOME 22 GAME_ON]
+Awesome+ (W) played 1 2 2 1
+BBBBBBB
+.....BB
+...B...
+.BB....
+WWWWW..
+.W.WWWW
+.....WW
+[AWAY 23 GAME_ON]
+Awesome+ (B) played 4 3 3 3
+BBBBBBB
+.....BB
+.......
+.BBB...
+WWWWW..
+.W.WWWW
+.....WW
+[HOME 24 GAME_ON]
+Awesome+ (W) played 1 4 2 5
+BBBBBBB
+.....BB
+.......
+.BBB...
+WWWWWW.
+.W.W.WW
+.....WW
+[AWAY 25 GAME_ON]
+Awesome+ (B) played 5 5 4 4
+BBBBBBB
+......B
+....B..
+.BBB...
+WWWWWW.
+.W.W.WW
+.....WW
+[HOME 26 GAME_ON]
+Awesome+ (W) played 0 5 1 4
+BBBBBBB
+......B
+....B..
+.BBB...
+WWWWWW.
+.W.WWWW
+......W
+[AWAY 27 GAME_ON]
+Awesome+ (B) played 3 1 2 0
+BBBBBBB
+......B
+....B..
+..BB...
+BWWWWW.
+.W.WWWW
+......W
+[HOME 28 GAME_ON]
+Awesome+ (W) played 1 1 2 0
+BBBBBBB
+......B
+....B..
+..BB...
+WWWWWW.
+...WWWW
+......W
+[AWAY 29 GAME_ON]
+Awesome+ (B) played 4 4 3 4
+BBBBBBB
+......B
+.......
+..BBB..
+WWWWWW.
+...WWWW
+......W
+[HOME 30 GAME_ON]
+Awesome+ (W) played 1 5 2 6
+BBBBBBB
+......B
+.......
+..BBB..
+WWWWWWW
+...WW.W
+......W
+[AWAY 31 GAME_ON]
+Awesome+ (B) played 3 2 2 1
+BBBBBBB
+......B
+.......
+...BB..
+WBWWWWW
+...WW.W
+......W
+[HOME 32 GAME_ON]
+Awesome+ (W) played 0 6 1 5
+BBBBBBB
+......B
+.......
+...BB..
+WBWWWWW
+...WWWW
+.......
+[AWAY 33 GAME_ON]
+Awesome+ (B) played 5 6 4 5
+BBBBBBB
+.......
+.....B.
+...BB..
+WBWWWWW
+...WWWW
+.......
+[HOME 34 GAME_ON]
+Awesome+ (W) played 2 0 3 0
+BBBBBBB
+.......
+.....B.
+W..BB..
+.BWWWWW
+...WWWW
+.......
+[AWAY 35 GAME_ON]
+Awesome+ (B) played 4 5 3 5
+BBBBBBB
+.......
+.......
+W..BBB.
+.BWWWWW
+...WWWW
+.......
+[HOME 36 GAME_ON]
+Awesome+ (W) played 2 2 3 1
+BBBBBBB
+.......
+.......
+WW.BBB.
+.B.WWWW
+...WWWW
+.......
+[AWAY 37 GAME_ON]
+Awesome+ (B) played 6 1 5 2
+B.BBBBB
+..B....
+.......
+WW.BBB.
+.B.WWWW
+...WWWW
+.......
+[HOME 38 GAME_ON]
+Awesome+ (W) played 1 3 2 2
+B.BBBBB
+..B....
+.......
+WW.BBB.
+.BWWWWW
+....WWW
+.......
+[AWAY 39 GAME_ON]
+Awesome+ (B) played 3 3 2 2
+B.BBBBB
+..B....
+.......
+WW..BB.
+.BBWWWW
+....WWW
+.......
+[HOME 40 GAME_ON]
+Awesome+ (W) played 2 3 3 2
+B.BBBBB
+..B....
+.......
+WWW.BB.
+.BB.WWW
+....WWW
+.......
+[AWAY 41 GAME_ON]
+Awesome+ (B) played 2 2 1 1
+B.BBBBB
+..B....
+.......
+WWW.BB.
+.B..WWW
+.B..WWW
+.......
+[HOME 42 GAME_ON]
+Awesome+ (W) played 2 4 3 3
+B.BBBBB
+..B....
+.......
+WWWWBB.
+.B...WW
+.B..WWW
+.......
+[AWAY 43 GAME_ON]
+Awesome+ won. Awesome+ DQd
